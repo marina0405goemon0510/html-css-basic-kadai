@@ -57,7 +57,7 @@ p{
 #bottom-child01{
   width: 400px;
   height: 100px;
-  background-color: #e6d8f7;
+  background-color: #e5dcf0;
 }
 #bottom-child02{
   width: 400px;
@@ -65,12 +65,12 @@ p{
   left: 200px;
   right: 200px;
   position: relative;
-  background-color: #e6d8f7;
+  background-color: #e5dcf0;
 }
 #bottom-child03{
   width: 400px;
   height: 100px;
   left: 400px;
   position: relative;
-  background-color: #e6d8f7;
+  background-color: #e5dcf0;
 }
